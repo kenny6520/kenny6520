@@ -1,3 +1,5 @@
+My personal information
+
 -   👋 Hi, I’m @kenny6520
 -   👀 I’m interested in health aesthetics and programming
 -   🌱 I’m currently learning [`Investment Economics`](https://www.economist.com/finance-and-economics/) [`nestjs`](https://docs.nestjs.com/) [`system design`](https://github.com/donnemartin/system-design-primer)
