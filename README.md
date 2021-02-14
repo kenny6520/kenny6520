@@ -17,3 +17,4 @@ My published readings
 -   [🎗 micro front-end solution-qiankun realization principle](https://github.com/kenny6520/shared/tree/main/micro-qiankun)
 -   [👀 what is ast, the case is implemented in ruby language](https://github.com/kenny6520/shared/tree/main/ast-for-ruby)
 -   [👍 how to get started quickly with nestjs？](https://github.com/kenny6520/todo-server)
+-   [🔥 some tools I use, `npm` package already provided](https://github.com/kenny6520/browser-utily-tools/blob/HEAD/docs/api.md)
