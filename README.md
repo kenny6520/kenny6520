@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 My published readings
 
 -   [🌟 git submission process and implementation principle](https://github.com/kenny6520/shared/tree/main/git-share)
-
 -   [🎗 micro front-end solution-qiankun realization principle](https://github.com/kenny6520/shared/tree/main/micro-qiankun)
-
 -   [👀 what is ast, the case is implemented in ruby language](https://github.com/kenny6520/shared/tree/main/ast-for-ruby)
+-   [👍 how to get started quickly with nestjs？](https://github.com/kenny6520/todo-server)
